@@ -1,0 +1,38 @@
+
+.bocznyblok {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    z-index: 1;
+  }
+
+  
+  .bocznyblok a {
+    display: block;
+    margin-bottom: 30px;
+    color: #333;
+    text-decoration: underline;
+    position: relative;
+    font-size: 20px;
+  }
+
+  
+  .bocznyblok a.active {
+    color: #000;
+    font-weight: bold;
+  }
+ .nisa{
+  position: relative;
+  left: 650px;
+  top: -10px;
+ }
+
+  body {
+    background-color: #0000;
+  }
+
+
+
